@@ -18,6 +18,8 @@
   </a>
 </p>
 
+!!! THIS IS THE APERTURE FORGOTTEN FORK OF PORTAL CUBED PLEASE SUPPORT THE ORIGINAL CREATORS!
+
 Portal Cubed is a Minecraft mod for Quilt that adds mechanics from Valve's Portal series.
 
 ## Implemented Features
