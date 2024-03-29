@@ -39,6 +39,7 @@
     "minecraft:end_rod",
     "#minecraft:candles",
     "minecraft:chain",
-    "minecraft:bamboo"
+    "minecraft:bamboo",
+    "minecraft:barrier"
   ]
 }
